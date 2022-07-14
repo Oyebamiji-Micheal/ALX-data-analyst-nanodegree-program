@@ -1,0 +1,1 @@
+This is the third project in ALX-Udacity Data Analyst Nanodegree program. This project requires students to demonstrate the understanding of two important data analysis process: Exploratory and Explanatory Data Analysis. All information including data sets, data source, insights and observations are included in the notebooks.
