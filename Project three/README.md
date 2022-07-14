@@ -1,5 +1,6 @@
 # Exploration of FIFA World Cup Datasets
 
+This is the third project in ALX-Udacity Data Analyst Nanodegree program. This project requires students to demonstrate the understanding of two important data analysis process: Exploratory and Explanatory Data Analysis. All information including data sets, data source, insights and observations are included in the notebooks.
 ## Datasets
 
 The datasets. This project features three datasets downloaded from Kaggle [(Data Source)](https://www.kaggle.com/datasets/abecklas/fifa-world-cup?select=WorldCups.csv). 
